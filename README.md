@@ -2,7 +2,7 @@
 
 A job-application tracker: log every job you apply to, track its status, and see your progress in charts. Built with **React 18, TypeScript, React Router 6 (loaders and actions) and React Query**, backed by a Node/Express/MongoDB API.
 
-**Live demo:** _coming soon_ · Click **"Explore the app"** on the login page to sign in as a read-only demo user.
+**Live demo:** [jobify-peach-phi.vercel.app](https://jobify-peach-phi.vercel.app) · Click **"Explore the app"** on the login page to sign in as a read-only demo user. The API runs on Render's free tier, so the first request may take up to a minute to wake it up.
 **Back end:** [Abdel-Fadeel/Jobify-API](https://github.com/Abdel-Fadeel/Jobify-API)
 
 ## Features
